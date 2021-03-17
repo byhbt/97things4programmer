@@ -1,8 +1,8 @@
-# 97things4programmer
+# 97 Things Every Programmer Should Know
 
-The content of this site is from the famous book "97 Things Every Programmer Should Know" of Kevlin Henney
+The content is crawled from: https://github.com/97-things/97-things-every-programmer-should-know
 
-The main purpose to use it for learning CI/CD, AWS, Azure...
+The main purpose to use it for learning CI/CD on cloud services (CI, CD).
 
 ## Demo
 
